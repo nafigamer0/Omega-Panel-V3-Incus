@@ -10,7 +10,7 @@ apt install git -y
 git clone https://github.com/nafigamer0/Omega-Panel-V3-Incus.git
 
 # Go into the directory
-cd Omega-Panel-V3
+cd Omega-Panel-V3-Incus
 
 # Give execute permission (just in case)
 chmod +x setup.sh
